@@ -6,6 +6,7 @@ Motor speed control using encoders. Encoder are connected to the hardware interr
 
 ## Vectoring
 X and Y vector (or Magnitude, Theta) are transformed to the three motor RPMs.
+![](demo/omni_transformation.jpg)
 
 ## High Level Control
 1. Control via Serial: Command from serial monitor is parsed and fed as arguments to vectoring function. This functionality is added for the control of robot via ROS running on Nvidia Jetson.
