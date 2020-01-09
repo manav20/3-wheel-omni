@@ -1,4 +1,4 @@
-# Vectoring: 3 wheeled omnidrectional system
+# Vectoring: 3 Wheeled Omni-Directional System
 Vectoring code for a three wheel omni chassis written for Arduino Microcontroller.   
 
 ## DC Motor Speed Control
