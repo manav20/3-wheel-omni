@@ -10,7 +10,7 @@ Motor speed control using encoders. Encoder are connected to the hardware interr
 
 ## Vectoring
 X and Y vector (or Magnitude, Theta) are transformed to the three motor RPMs.
-![](demo/omni_transformation.jpg)
+![](demo/omni_transformation_2.jpg)
 
 ## High Level Control
 ### 1. Control via Serial: 
